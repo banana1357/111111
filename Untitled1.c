@@ -2,5 +2,5 @@
 
 main() {
 
-    printf("°ª¬Lºa\n");
+    printf("é«˜æ˜­æ¦®\n");
 }
